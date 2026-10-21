@@ -5,7 +5,7 @@ An RSA-based file encryption/decryption experiment using a 2048-bit RSA key pair
 
 ## Technologies
 - Python
-- `cryptography`
+- cryptography
 - RSA
 - OAEP
 - SHA-256
